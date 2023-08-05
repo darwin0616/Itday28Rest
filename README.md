@@ -1,5 +1,5 @@
 # Itday28Rest
-2020參加『IT邦幫忙』鐵人賽 的 Restful Api範例。
+2020參加『IT邦幫忙』鐵人賽 的 Restful Api 範例。
 
 文章參見：
 
